@@ -1,0 +1,1 @@
+<img src="{{asset('logo/EZEQUIEL_1.jpg')}}" width="100px" height="50px">
